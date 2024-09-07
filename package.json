@@ -9,18 +9,29 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.5"
+    "@theatre/core": "~0.5.1",
+    "@theatre/react": "^0.7.2",
+    "@theatre/studio": "~0.5.1",
+    "@types/lodash": "^4.17.7",
+    "@types/three": "^0.167.1",
+    "curve-interpolator": "^3.3.1",
+    "glsl-noise": "^0.0.0",
+    "lodash": "^4.17.21",
+    "next": "14.2.5",
+    "pts": "^0.12.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "simplex-noise": "^4.0.3",
+    "three": "^0.167.1"
   },
   "devDependencies": {
-    "typescript": "^5",
-    "@types/node": "^20",
-    "@types/react": "^18",
-    "@types/react-dom": "^18",
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
-    "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "@types/node": "^20.14.15",
+    "@types/react": "^18.3.3",
+    "@types/react-dom": "^18.3.0",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.9",
+    "typescript": "^5.5.4"
   }
 }
