@@ -1,0 +1,6 @@
+[submodule "reactive-frames"]
+	path = reactive-frames
+	url = https://github.com/j-palindrome/reactive-frames
+[submodule "util"]
+	path = util
+	url = https://github.com/j-palindrome/util.git
